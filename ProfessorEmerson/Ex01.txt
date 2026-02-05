@@ -1,0 +1,38 @@
+Receita de bolo de laranja em forma de algoritmo
+
+1. Levante-se
+2. Vá até a sua cozinha
+3. Procure a geladeira
+4. Procure a cesta de ovos
+5. Pegue 3 ovos da cesta
+6. Dirigija-se até a mesa
+7. Posicione os ovos na mesa
+8. Volte à geladeira
+9. Pegue 2 laranjas
+10. Dirigija-se até a mesa
+11. Posicione as laranjas na mesa
+12. Volte à geladeira
+13. Pegue o pacote de açucar refinado
+14. Dirigija-se até a mesa
+15. Posicione o pacote de  açucar refinado na mesa
+16. Volte à geladeira
+17. Pegue o fermento em pó
+18. Feche a geladeira
+19. Dirigija-se até a mesa
+20. Posicione o fermento em pó na mesa
+21. Procure o armario de compras
+22. Abra o armario de compras
+23. Pegue ambos o óleo de cozinha e a farinha de trigo
+24. Feche o armario de compras
+25. Dirigija-se até a mesa
+26. Posicione a farinha e o òleo na mesa
+27. Vá até o armario de utensílios
+28. Dentro do armario de utensílios, pegue um liquidificador, um pote e uma forma com um furo no meio
+29. Feche o armario de utensílios
+30. Posicione os utensílios na pia
+31. Tire a tampa do liquidificador
+32. Pegue os ovos e quebre-os sob o liquidificador
+33. Pegue as laranjas e descasque-as
+34. Corte as laranjas no meio
+35. Esprema as laranjas sob o liquidificador
+36. 
