@@ -1,11 +1,10 @@
 Assistir um filme
 
-1. Pegue o controle remoto
-2. Ligue a TV
-3. Abra o aplicativo de streaming
-4. Escolha o filme
-5. Ajuste volume
-6. Pressione “reproduzir”
-7. Assista ao filme
-8. Aguarde os créditos finais
-9. Desligue a TV
+1. Deite-se na cama
+2. Pegue seu smarthphone
+3. Ligue seu smarthphone
+4. Abra o aplicativo de streaming
+5. Escolha um filme desejado
+6. Pressione na miniatura do filme
+7. Assista o filme
+8. Ao chegar nos créditos do filme feche o aplicativo de streaming

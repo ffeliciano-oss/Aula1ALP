@@ -52,7 +52,7 @@ Receita de bolo de laranja em forma de algoritmo
 50. Unte a forma com óleo
 51. Polvilhe farinha de trigo na forma untada
 52. Despeje a massa na forma
-53.Vá até o forno
+53. Vá até o forno
 54. Ligue o forno a 180°C
 55. Aguarde o forno pré-aquecer por 10 minutos
 56. Coloque a forma no forno
@@ -62,4 +62,5 @@ Receita de bolo de laranja em forma de algoritmo
 60. Retire a forma do forno com cuidado
 61. Aguarde o bolo esfriar por 15 minutos
 62. Desenforme o bolo
-63. Sirva o bolo de laranja
+63. Coloque o bolo em um pote de plástico após o comer
+64. Guarde o bolo 

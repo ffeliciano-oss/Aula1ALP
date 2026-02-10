@@ -12,6 +12,5 @@ Limpar a casa
 10. Limpe o banheiro
 11. Troque os sacos de lixo
 12. Guarde os materiais de limpeza
-13. Feche as janelas
-14. Observe se há sujeira restante
-15. Finalize a limpeza
+13. Observe se há sujeira restante
+14. Finalize a limpeza

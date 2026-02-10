@@ -1,22 +1,27 @@
-Enem
+Prova Enem
 
 1. Acorde cedo
-2. Tome café da manhã
-3. Separe documento com foto
-4. Separe caneta preta
-5. Vá até o local de prova
-6. Chegue antes do fechamento dos portões
-7. Entre na sala indicada
-8. Sente-se no lugar designado
-9. Aguarde instruções do fiscal
-10. Receba a prova e o gabarito
-11. Confira seus dados
-12. Aguarde autorização para iniciar
-13. Leia as instruções da prova
-14. Comece pelas questões mais fáceis
-15. Marque respostas no caderno
-16. Transfira respostas para o gabarito
-17. Faça a redação
-18. Entregue a prova ao fiscal
-19. Saia do local de prova
-20. Volte para a casa
+2. Levante da came
+3. Vá para a cozinha
+4. Prepare seu café da manhã
+5. Tome café da manhã
+6. Separe documento com foto
+7. Separe caneta preta
+8. Saia de casa
+9. Vá até o local de prova
+10. Chegue antes do fechamento dos portões
+11. Entre na sala indicada
+12. Sente-se no lugar designado
+13. Aguarde instruções do fiscal
+14. Receba a prova e o gabarito
+15. Confira seus dados
+16. Aguarde autorização para iniciar
+17. Leia as instruções da prova
+18. Comece pelas questões mais fáceis
+19. Marque respostas no caderno
+20. Transfira respostas para o gabarito
+21. Faça a redação
+22. Entregue a prova ao fiscal
+23. Espere o tempo mínimo
+24. Saia do local de prova
+25. Volte para a casa
