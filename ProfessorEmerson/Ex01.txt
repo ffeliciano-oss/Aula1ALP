@@ -35,4 +35,31 @@ Receita de bolo de laranja em forma de algoritmo
 33. Pegue as laranjas e descasque-as
 34. Corte as laranjas no meio
 35. Esprema as laranjas sob o liquidificador
-36. 
+36. Coloque o suco das laranjas no liquidificador
+37. Adicione os 3 ovos no liquidificador
+38. Adicione 1 xícara de óleo
+39. Adicione 2 xícaras de açúcar refinado
+40. Tampe o liquidificador
+41. Ligue o liquidificador e bata por aproximadamente 3 minutos
+42. Desligue o liquidificador
+43. Abra o liquidificador
+44. Despeje a mistura no pote
+45. Adicione 2 xícaras de farinha de trigo ao pote
+46. Misture bem com uma colher até ficar homogêneo
+47. Adicione 1 colher de sopa de fermento em pó
+48. Misture delicadamente até incorporar o fermento
+49. Pegue a forma com furo no meio
+50. Unte a forma com óleo
+51. Polvilhe farinha de trigo na forma untada
+52. Despeje a massa na forma
+53.Vá até o forno
+54. Ligue o forno a 180°C
+55. Aguarde o forno pré-aquecer por 10 minutos
+56. Coloque a forma no forno
+57. Asse por aproximadamente 40 minutos
+58. Após 40 minutos, espete um palito no bolo
+59. Se o palito sair limpo, desligue o forno
+60. Retire a forma do forno com cuidado
+61. Aguarde o bolo esfriar por 15 minutos
+62. Desenforme o bolo
+63. Sirva o bolo de laranja
