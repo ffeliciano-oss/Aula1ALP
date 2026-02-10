@@ -7,4 +7,4 @@ Assistir um filme
 5. Escolha um filme desejado
 6. Pressione na miniatura do filme
 7. Assista o filme
-8. Ao chegar nos créditos do filme feche o aplicativo de streaming
+8. Ao chegar nos créditos do filme, feche o aplicativo de streaming
